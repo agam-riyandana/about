@@ -1,6 +1,8 @@
 # Simple-Portfolio
 A simple single page portfolio which is easy to edit and easy to deploy.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agamx&label=Views&color=blue&style=plastic" alt="https://github.com/agamx/ryanofficial/blob/master/README.md" /> </p>
+
 <p align="center"><img src="./agam.gif" /></p>
 
 ###
